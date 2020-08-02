@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Timed Quiz</string>
+    <string name="questionText" />
+    <string name="rb1" />
+    <string name="rb2" />
+    <string name="rb3" />
+    <string name="rb4" />
+    <string name="time" />
+    <string name="answer">Απάντηση</string>
+    <string name="scoreLabel">Σκορ:</string>
+    <string name="noBonus">NO BONUS</string>
+    <string name="scoreValue" />
+    <string name="gameOver">Game Over!</string>
+    <string name="finalScore">Τελικό Σκορ:</string>
+    <string name="finalScoreValue"></string>
+</resources>
